@@ -1,0 +1,137 @@
+{
+  "name": "TEST",
+  "short_name": "TE",
+  "start_url": "https://test-mskteam.blogspot.com/",
+  "lang": "vi",
+  "display": "standalone",
+  "id": "/",
+  "description": "Đọc truyện tranh trực tuyến miễn phí tại TEST. Trải nghiệm ngay những bộ truyện đặc sắc , thú vị và tốc độ làm việc của website!!!",
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+  },
+  "categories": [
+    "books",
+    "entertainment",
+    "magazines",
+    "social"
+  ],
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui",
+    "fullscreen",
+    "browser"
+  ],
+  "orientation": "portrait-primary",
+  "background_color": "#2c2c2c",
+  "theme_color": "#2c2c2c",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc_U5ZEj0xXP4liADa5qxOFay60zF2AC5M2XOGG3EEbQsSQ-1WIZ7K10jQU660lEisVsx02KPxoNlyq0VPbqdhMYxkeBUr-0ZREh8RN6wd7x_Acv0MVsrbdgDKpLMzzl0BP7DX568ra9odxZ6dkWOnLWwPU5r0PntRVVrpt2kcDfkFAgwkq92yeP9fQRl7/s1600/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhbFDUGj8wVRTkVWgpmYQZVAw5UZr15zeViBupfr9vNDtIPwgEpU2TMDG-ePiqmBW3oGTk5cNfkBx2hDy2nwtjxm9H9yiwWpXtOX1Mrj8-sQq1CS90UnnDxqMfLTkrTkffBsRFmEC_B9Yi3Dv-y-OaE3vZzOWAo1iYlhkWInIDTJomIsMGbWOEI7ozO0eM/s1600/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Trang chủ",
+      "short_name": "Trang chủ",
+      "description": "Truy cập trang chủ",
+      "url": "https://test-mskteam.blogspot.com/",
+      "icons": [
+        {
+          "src": "https://api.iconify.design/ion:home.svg?color=rgba(26,88,201)&height=192&width=192",
+          "sizes": "192x192",
+          "type": "image/svg"
+        }
+      ]
+    },
+    {
+      "name": "Theo dõi",
+      "short_name": "Theo dõi",
+      "description": "Theo dõi những bộ truyện yêu thích <3",
+      "url": "https://test-mskteam.blogspot.com/p/theo-doi_24.html",
+      "icons": [
+        {
+          "src": "https://api.iconify.design/material-symbols:bookmark.svg?color=rgba(26,88,201)&height=192&width=192",
+          "sizes": "192x192",
+          "type": "image/svg"
+        }
+      ]
+    },
+    {
+      "name": "Báo lỗi",
+      "short_name": "Báo lỗi",
+      "description": "Báo lỗi khi có ảnh bị lỗi trong chương truyện hoặc vấn đề khác!!!",
+      "url": "https://www.youtube.com/",
+      "icons": [
+        {
+          "src": "https://api.iconify.design/material-symbols:error.svg?color=rgba(26,88,201)&height=192&width=192",
+          "sizes": "192x192",
+          "type": "image/svg"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://i.pinimg.com/originals/40/1d/3a/401d3af7e9822626a908e5fea98d3e72.jpg",
+      "type": "image/jpg",
+      "sizes": "1280x720",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://wallpapers.com/images/hd/1280x720-gaming-0yhvmfxag0yu5r34.jpg",
+      "type": "image/jpg",
+      "sizes": "1280x720",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://images.wallpapersden.com/image/download/mushoku-tensei-hd-roxy-migurdia_bmdpZ2mUmZqaraWkpJRmZ21lrWxnZQ.jpg",
+      "type": "image/jpg",
+      "sizes": "1280x720",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://image.tmdb.org/t/p/original/T8J9UFUzKK0ybPyEIoBWgOQHoa.jpg",
+      "type": "image/jpg",
+      "sizes": "1280x720",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://images.wallpapersden.com/image/download/mushoku-tensei-hd-roxy-migurdia_bmdpZ2mUmZqaraWkpJRmZ21lrWxnZQ.jpg",
+      "type": "image/jpg",
+      "sizes": "1280x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://image.tmdb.org/t/p/original/T8J9UFUzKK0ybPyEIoBWgOQHoa.jpg",
+      "type": "image/jpg",
+      "sizes": "1280x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Sqm52eBv21T12-1a5pTc7pymhZvA3XDjug&s",
+      "type": "image/jpg",
+      "sizes": "1280x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://image.tmdb.org/t/p/original/T8J9UFUzKK0ybPyEIoBWgOQHoa.jpg",
+      "type": "image/jpg",
+      "sizes": "1280x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY95p-TiMhQAPUt8tXCCj-GxgIYMNBrurEQg&s",
+      "type": "image/jpg",
+      "sizes": "1280x720",
+      "form_factor": "narrow"
+    }
+  ]
+}
